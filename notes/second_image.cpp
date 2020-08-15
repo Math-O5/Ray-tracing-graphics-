@@ -24,6 +24,6 @@ int main() {
             write_color(cout, pixel);
         }
     }
-
+    cerr << "\nDone.\n";
     return 0;
 }
